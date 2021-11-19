@@ -8,6 +8,10 @@ body {
     background: #b07cf7;
     color: #ffffff;
 }
+.blog {
+    padding-top: 100px;
+    padding-bottom: 120px;
+}
 .container {
     width: 1170px;
     margin: 0 auto;
@@ -17,6 +21,7 @@ h1 {
     text-transform: capitalize;
     font-weight: bold;
     font-size: 104px;
+    line-height: 80px;
     margin: 0;
 }
 p {
